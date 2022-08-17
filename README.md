@@ -1,7 +1,7 @@
 # Video sharing app using react and styled components
-```
+
 Hello, I created this app for those looking for a free open source applicatin that can be used to upload, view, comment, and share videos using the React platform & Node.js with mongo db.
-```
+
 ## Front-end requirements & dependencies
     - @emotion/react: ^11.10.0,
     - @emotion/styled: ^11.10.0,
