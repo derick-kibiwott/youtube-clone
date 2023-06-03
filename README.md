@@ -34,10 +34,30 @@ Hello, I created this app for those looking for a free open source applicatin th
     - mongoose: ^6.5.1,
     - nodemon: ^2.0.19
 ## Features of the application
-    * React powers front-end functionality, while Node.js and the Express framework power the back-end.
-    * Uploading videos to google firebase,
-    * Connecting to mongodb, saving & retrieving data
-    * Persistent data using Redux toolkit with persist
-    * Darkmode functionality with styled components
-    * Subscription to videos, searching, recommendation
-    * Using cookies, using the REST API for sophisticated requests, supplying security with JWT, using Firebase, and more.
+Front-end:
+- React: A popular JavaScript library for building user interfaces.
+- Styled Components: A CSS-in-JS library that enables styling React components.
+- Dark mode functionality: Implementing a feature that allows users to switch between light and dark themes.
+
+Back-end:
+- Node.js: A JavaScript runtime environment that allows server-side execution of JavaScript code.
+- Express: A fast and minimalist web application framework for Node.js.
+- MongoDB: A NoSQL database that provides flexibility and scalability for storing and retrieving data.
+
+Data Management:
+- Redux Toolkit: A library for state management in React applications, providing a predictable way to manage application state.
+- Redux Persist: A library that enables persisting Redux store data, allowing state to be preserved even after a page refresh.
+
+Video Handling:
+- Google Firebase: A comprehensive cloud platform that offers various services, including storage, hosting, and authentication.
+- Uploading videos: Using Firebase storage to store uploaded video files securely.
+- Subscription to videos: Implementing a feature that allows users to subscribe to specific videos or channels.
+- Searching and recommendation: Providing search functionality and recommendations based on user preferences.
+
+Security and API:
+- Cookies: Storing user session data on the client-side for authentication and other purposes.
+- REST API: Utilizing a RESTful API architecture for handling sophisticated requests.
+- JWT (JSON Web Tokens): Using JWT for secure authentication and authorization.
+- Firebase: Leveraging Firebase services for additional security measures and user management.
+
+Overall, your app seems to have a solid tech stack and a variety of features to enhance the video sharing experience.
